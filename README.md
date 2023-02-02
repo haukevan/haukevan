@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 <img src="" />
 <img src="" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={haukevan}&theme={dark}" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haukevan&theme=dark" />
 
 <!--
 **haukevan/haukevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
