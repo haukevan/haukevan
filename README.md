@@ -15,7 +15,7 @@ Current Status: Enrolled in an online/self-paced Batchelor of Computer Science D
 | Other: | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> |
 
 <p align="center">
-  <img width=100% height=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=haukevan&theme=dark" />
+  <img width=100% height=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=haukevan&theme=dark?v=1" />
 </p>
 
 <!--
