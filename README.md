@@ -5,7 +5,7 @@ Hi, I'm Evan, Full Stack Developer.
 My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,react,vue,&perline=3" />
+    <img src="https://skillicons.dev/icons?i=aws,react,vue,tailwind,mongodb,nextjs,prisma,vercel&perline=4" />
   </a>
 </p>
 
