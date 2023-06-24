@@ -5,14 +5,10 @@ Hi, I'm Evan, Full Stack Developer.
 My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[![My Skills](https://skillicons.dev/icons?i=aws,react,vue,&perline=3)](https://skillicons.dev)
-" />
+    <img src="https://skillicons.dev/icons?i=aws,react,vue,&perline=3)](https://skillicons.dev" />
   </a>
 </p>
 
-
-
-Current Status: Enrolled in an online/self-paced Batchelor of Computer Science Degree and open for employment opportunities!
 <!--
 # Favored Languages & Libraries:
 | Topic | Languages & Libraries |
