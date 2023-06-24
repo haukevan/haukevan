@@ -5,6 +5,7 @@
   <span>Check out some of my projects </span>
   <span><a href="https://evanha.uk">HERE</a></span>
 </p>
+<br/>
 <p align="center">My Prefered Tech Stack:</p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,6 +19,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,java,php,py,pytorch,jquery,mysql,dynamodb,postgres,firebase,arduino,raspberrypi,instagram,androidstudio,atom,vscode,ae,pr,ps,autocad,blender&perline=11" />
   </a>
 </p>
+<p align="center">~Open to work~</p>
 
 
 <!--
