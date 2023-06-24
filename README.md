@@ -1,6 +1,6 @@
 # About Me
 
-<h2 style="background: white;" align="center">Hi, I'm Evan, Full Stack Developer.</h2>
+<h2 style="background: #ffff12;" align="center">Hi, I'm Evan, Full Stack Developer.</h2>
 <p align="center">
   <span>Check out some of my projects </span>
   <span><a href="https://evanha.uk">HERE</a></span>
