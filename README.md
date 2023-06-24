@@ -1,9 +1,19 @@
 # About Me
 
-Hi, I'm Evan, a eager and competant computer science student with a degree in Mechanical Engineering from Canada.  I have worked with automation of large mining haul trucks for 4+ years and am transitioning into a career in computer science.  With passion for machine learning, cloud computing, and internet of things, I enjoy clean creating efficient user experiences and learning new skills.
+Hi, I'm Evan, Full Stack Developer.
+
+My Tech Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[![My Skills](https://skillicons.dev/icons?i=aws,react,vue,&perline=3)](https://skillicons.dev)
+" />
+  </a>
+</p>
+
+
 
 Current Status: Enrolled in an online/self-paced Batchelor of Computer Science Degree and open for employment opportunities!
-
+<!--
 # Favored Languages & Libraries:
 | Topic | Languages & Libraries |
 | :---: | :---: |
