@@ -1,13 +1,20 @@
 # About Me
 
 Hi, I'm Evan, Full Stack Developer.
-
-My Tech Stack:
+<p align="center">My Prefered Tech Stack:</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,react,vue,tailwind,mongodb,nextjs,prisma,vercel&perline=4" />
   </a>
 </p>
+<br/>
+<p align="center">Addition experience with:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,java,php,py,pytorch,jquery,mysql,dynamodb,postgres,firebase,arduino,raspberrypi,instagram,androidStudio,atom,vscode,Ae,pr,ps,autocad,blender&perline=4" />
+  </a>
+</p>
+
 
 <!--
 # Favored Languages & Libraries:
