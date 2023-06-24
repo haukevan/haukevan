@@ -1,6 +1,10 @@
 # About Me
 
-Hi, I'm Evan, Full Stack Developer.
+<p align="center">Hi, I'm Evan, Full Stack Developer.</p>
+<p align="center">
+  <span>Check out some of my projects </span>
+  <span><a href="https://evanha.uk">HERE</a></span>
+</p>
 <p align="center">My Prefered Tech Stack:</p>
 <p align="center">
   <a href="https://skillicons.dev">
