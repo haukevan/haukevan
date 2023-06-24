@@ -11,7 +11,7 @@ Hi, I'm Evan, Full Stack Developer.
 <p align="center">Addition experience with:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,php,py,pytorch,jquery,mysql,dynamodb,postgres,firebase,arduino,raspberrypi,instagram,androidstudio,atom,vscode,ae,pr,ps,autocad,blender&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,php,py,pytorch,jquery,mysql,dynamodb,postgres,firebase,arduino,raspberrypi,instagram,androidstudio,atom,vscode,ae,pr,ps,autocad,blender&perline=13" />
   </a>
 </p>
 
